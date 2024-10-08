@@ -145,7 +145,7 @@ print_config() {
   echo -e "\e[1;32mHysteria2 安装成功\033[0m"
   echo ""
   echo -e "\e[1;33mV2rayN或Nekobox 配置\033[0m"
-  echo -e "\e[1;32mhysteria2://$PASSWORD@$HOST_IP:$SERVER_PORT/?sni=&alpn=h3&insecure=1#$ISP\033[0m"
+  echo -e "\e[1;32mhysteria2://$PASSWORD@$HOST_IP:$SERVER_PORT/?sni=graph.instagram.com&alpn=h3&insecure=1#$ISP\033[0m"
   echo ""
   echo -e "\e[1;33mSurge 配置\033[0m"
   echo -e "\e[1;32m$ISP = hysteria2, $HOST_IP, $SERVER_PORT, password = $PASSWORD, skip-cert-verify=true, sni=graph.instagram.com\033[0m"
