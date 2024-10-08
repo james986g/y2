@@ -14,7 +14,7 @@
 ## 一键脚本
 - 推荐Socks5 hysteria2 nohup模式
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/james986g/y2/blob/main/install-socks5-hysteria.sh)
+bash <(curl -s https://raw.githubusercontent.com/james986g/y2/main/install-socks5-hysteria.sh)
 ```
 - Socks5 pm2模式
 
